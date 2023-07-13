@@ -1,5 +1,3 @@
 streamlit
-python-time
+time
 threaded
-os-sys
-DateTime
